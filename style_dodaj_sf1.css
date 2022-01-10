@@ -1,0 +1,299 @@
+body {
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+	text-align: center;
+	background-color: #023c52;
+}
+
+
+.button {
+  background-color: #023c52;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #777;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+/* Container */
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    border: 2px solid #af7162;
+    border-radius: 5px;
+	background-color: #af7162;
+    box-shadow: 0 0 35px #023c52;
+}
+
+.rejestracj {
+    max-width: 500px;
+    margin: 20px auto;
+    border: 1px solid #d69558;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.4);
+	background-color: #e1e1e1;
+}
+
+
+/* Header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #023c52;
+}
+
+/* Brand */
+.brand a,
+.brand img {
+    display: block;
+	width: 80%;
+}
+
+/* Menu */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+nav a {
+    color: #af7162;
+    padding: 10px 15px;
+    font-size: 24px;
+    display: block;
+}
+
+    nav a:hover {
+        background: #af7162;
+        color: #023c52;
+    }
+
+/* Slider */
+.slider img {
+    display: block;
+    font-size: 32px;
+}
+.slider {
+    display: block;
+    font-size: 32px;
+    padding: 10px;
+    background-color: #023c52;
+}
+
+/* Main */
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Article */
+article {
+    width: 70%;
+    padding: 30px;
+}
+
+galeria {
+    width: 500px;
+    padding: 100px;
+}
+
+
+/* Aside */
+aside {
+    width: 30%;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-left: 1px solid #e1e1e1;
+}
+
+.widget {
+    margin-bottom: 40px;
+}
+
+    .widget img {
+        body
+
+{
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: #777;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Container */
+.container {
+    max-width: 1000px;
+    margin: 20px auto;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    box-shadow: 0 0 35px rgba(0, 0, 0, 0.1);
+}
+
+/* Header */
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    background-color: #023c52;
+}
+
+/* Brand */
+.brand a,
+.brand img {
+    display: block;
+}
+
+/* Menu */
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 5px;
+}
+
+nav a {
+    color: #af7162;
+    padding: 10px 15px;
+    font-size: 24px;
+    display: block;
+}
+
+    nav a:hover {
+        background: #af7162;
+        color: #023c52;
+    }
+
+/* Slider */
+.slider img {
+    display: block;
+    font-size: 32px;
+}
+
+.slider {
+    display: block;
+    font-size: 32px;
+    padding: 10px;
+    background-color: #023c52;
+}
+
+/* Main */
+main {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Article */
+article {
+    width: 70%;
+    padding: 30px;
+}
+
+galeria {
+    width: 500px;
+    padding: 100px;
+}
+
+
+/* Aside */
+aside {
+    width: 30%;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-left: 1px solid #e1e1e1;
+}
+
+.widget {
+    margin-bottom: 40px;
+}
+
+    .widget img {
+        float: left;
+        margin: 0 12px 5px 0;
+    }
+
+    .widget ul {
+        list-style-type: square;
+        padding: 0 0 0 18px;
+        margin: 0;
+    }
+
+    .widget li {
+        margin-bottom: 15px;
+    }
+
+/* Footer */
+footer {
+    background: #f8f8f8;
+    border-top: 1px solid #e1e1e1;
+    padding: 22px 15px;
+    text-align: center;
+}
+
+    footer p {
+        margin 0;
+    }
+
+    float: left;
+    margin: 0 12px 5px 0;
+}
+
+.widget ul {
+    list-style-type: square;
+    padding: 0 0 0 18px;
+    margin: 0;
+}
+
+.widget li {
+    margin-bottom: 15px;
+}
+
+/* Footer */
+footer {
+    background: #023c52;
+    padding: 22px 15px;
+    text-align: center;
+	color: #af7162;
+}
+
+footer p {
+    margin 0;
+}
+
