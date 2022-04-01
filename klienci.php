@@ -50,7 +50,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" href="style_sf.css" type="text/css" />
 		<link rel="icon" type="image/png" href="zdj/favicon.png"/>
-		<title>Safety&amp;Finance</title>	
+		<title>Title</title>	
 	</head>
 
 	<body>
@@ -154,7 +154,7 @@
 				
 			<footer>
 				<br />
-					<p><b>Safety&amp;Finance</b></p>
+					<p><b>footer</b></p>
 				<br />
 			</footer>
 		</div>
